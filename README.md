@@ -1,9 +1,5 @@
 # Minds&Mugs ☕📚
 
-## 🧑‍💻 Team Members
-- [List each member's name here]
-
----
 
 ## ❓ What is the Problem?
 
